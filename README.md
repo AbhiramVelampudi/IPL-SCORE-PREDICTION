@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn keras tensorflow ipywid
 ```
 
 
-                            <<Usage>>
+## Usage
 
 Load Data: The dataset ipl_data.csv is loaded into a pandas DataFrame.
 Preprocess Data:
@@ -43,7 +43,7 @@ Train Model: The model is trained on the training data.
 Evaluate Model: Model performance is evaluated using mean absolute error.
 Prediction Interface: An interactive widget-based interface is provided for making predictions.
 
-                        <<Interactive Prediction>>
+## Interactive Prediction
 
 The notebook includes an interactive widget-based interface where users can select:
 
