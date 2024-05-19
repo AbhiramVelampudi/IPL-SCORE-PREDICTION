@@ -27,6 +27,7 @@ To run this notebook, you need to have the following Python libraries installed:
 You can install these packages using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn keras tensorflow ipywidgets
+```
 
 
                             <<Usage>>
